@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{154:function(n,e,t){"use strict";t.r(e);var a=t(0),l=t.n(a);e.default=function(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Hong Nammyoung"),l.a.createElement("p",null,"nam is starting!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-68bbe34fd975bb1e0961.js.map
