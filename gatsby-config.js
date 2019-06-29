@@ -1,13 +1,6 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
-
 module.exports = {
-  /* Your site config here */
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: `도시의 시공간을 연구합니다`,
   },
   plugins: [
     {

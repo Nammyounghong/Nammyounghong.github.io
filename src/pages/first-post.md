@@ -3,8 +3,6 @@ title: "The memory of scar – Stolperstein of Günter Demnig"
 date: "2019-06-29"
 ---
 
-# The memory of scar – Stolperstein of Günter Demnig
-
 *Nammyoung Hong*
 
 ---
@@ -15,5 +13,5 @@ This paper attempts to analyze the artwork <Stolperstein> of Günter Demnig thro
 
 On the other hand, <Stolperstein>s are also dedicated to the victims. Unlike the memorials and museums, however, these are placed on the street mixed up in everyday urban landscapes, which are accordingly not so noticeable as other gigantic memorials. However, there are more than 69,000 <Stolperstein>s across Europe and 1,210 in Berlin. Through personal experience and the Affect-Theory, I would like to explain that the pedestrians could get the shock when they recognize the Stolperstein on the street and that the Holocaust incident can be remembered for a long time because the shock remains as physical pain and scar. In other words, through the experience of the everyday artwork, people can realize that they are ignoring the fact, that the other – in this case, the victims of the Holocaust -  were living in this city and with this landscape. At this recognition process, the "affect" is experienced as a trauma. As a conclusion, I would like to assert that facing the pain of the trauma is the way to escape from the infantile self-narrative and also this can be the impetus for the conversation in one’s heart with the victims of the history, which is the ground of the ethics.
 
-EKC2019 (Europea-Korea Conference On Science and Technology 2019) 포스터 논문을 위한 초록입니다. 
+> EKC2019 (Europea-Korea Conference On Science and Technology 2019) 포스터 논문을 위한 초록입니다. 
 부디 빠른 시일(2019년 10월 전) 안에 글이 완성되기를 기원하며,
