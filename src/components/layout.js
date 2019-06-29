@@ -21,7 +21,7 @@ export default ({ children }) => (
           font-style: normal;
         `}
       >
-        Pandas Eating Lots
+        도시의 시공간을 공부합니다
       </h3>
     </Link>
     <Link
