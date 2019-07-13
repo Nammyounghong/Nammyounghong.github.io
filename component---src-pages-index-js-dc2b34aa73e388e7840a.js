@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{154:function(e,n,a){"use strict";a.r(n);var t=a(0),l=a.n(t);n.default=function(){return l.a.createElement("div",null,l.a.createElement("h1",null,"정신좀 차려라!"),l.a.createElement("h2",null,"Hong Nammyoung"),l.a.createElement("p",null,"nam is starting!"),l.a.createElement("img",{src:"images/aachener_dom.jpg",alt:"",height:"400"}))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-dc2b34aa73e388e7840a.js.map
